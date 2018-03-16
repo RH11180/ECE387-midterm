@@ -1,2 +1,2 @@
 # ECE387-midterm
-The midterm project for embedded systems design
+The midterm project for ECE 387 embedded systems design
